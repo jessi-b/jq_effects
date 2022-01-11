@@ -1,0 +1,13 @@
+#img-showing {
+  max-width: 300px;
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: green;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
