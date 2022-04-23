@@ -1,5 +1,8 @@
-#img-showing {
+img{
   max-width: 300px;
+}
+
+#img-showing {
   display: none;
 }
 
